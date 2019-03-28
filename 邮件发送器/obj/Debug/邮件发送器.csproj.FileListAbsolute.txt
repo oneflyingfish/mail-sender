@@ -1,0 +1,60 @@
+E:\freework\204management\204management\bin\Debug\邮件发送器.exe.config
+E:\freework\204management\204management\bin\Debug\邮件发送器.exe
+E:\freework\204management\204management\bin\Debug\邮件发送器.pdb
+E:\freework\204management\204management\obj\Debug\邮件发送器.csprojResolveAssemblyReference.cache
+E:\freework\204management\204management\obj\Debug\邮件发送器.csproj.GenerateResource.Cache
+E:\freework\204management\204management\obj\Debug\邮件发送器.csproj.CoreCompileInputs.cache
+E:\freework\204management\204management\obj\Debug\邮件发送器.exe
+E:\freework\204management\204management\obj\Debug\邮件发送器.pdb
+E:\freework\204management\204management\obj\Debug\邮件发送器.Properties.Resources.resources
+E:\freework\204management\204management\obj\Debug\邮件发送器.Form1.resources
+E:\freework\邮件发送器\邮件发送器\bin\Debug\邮件发送器.exe.config
+E:\freework\邮件发送器\邮件发送器\bin\Debug\邮件发送器.exe
+E:\freework\邮件发送器\邮件发送器\bin\Debug\邮件发送器.pdb
+E:\freework\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csprojResolveAssemblyReference.cache
+E:\freework\邮件发送器\邮件发送器\obj\Debug\邮件发送器.Form1.resources
+E:\freework\邮件发送器\邮件发送器\obj\Debug\邮件发送器.Properties.Resources.resources
+E:\freework\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csproj.GenerateResource.Cache
+E:\freework\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csproj.CoreCompileInputs.cache
+E:\freework\邮件发送器\邮件发送器\obj\Debug\邮件发送器.exe
+E:\freework\邮件发送器\邮件发送器\obj\Debug\邮件发送器.pdb
+E:\freework\visual stdio build\C#\邮件发送器\邮件发送器\bin\Debug\邮件发送器.exe.config
+E:\freework\visual stdio build\C#\邮件发送器\邮件发送器\bin\Debug\邮件发送器.exe
+E:\freework\visual stdio build\C#\邮件发送器\邮件发送器\bin\Debug\邮件发送器.pdb
+E:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csprojResolveAssemblyReference.cache
+E:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.Form1.resources
+E:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.Properties.Resources.resources
+E:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csproj.GenerateResource.Cache
+E:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csproj.CoreCompileInputs.cache
+E:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.exe
+E:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.pdb
+E:\achievement\C sharp\邮件发送器\邮件发送器\bin\Debug\邮件发送器.exe.config
+E:\achievement\C sharp\邮件发送器\邮件发送器\bin\Debug\邮件发送器.exe
+E:\achievement\C sharp\邮件发送器\邮件发送器\bin\Debug\邮件发送器.pdb
+E:\achievement\C sharp\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csprojResolveAssemblyReference.cache
+E:\achievement\C sharp\邮件发送器\邮件发送器\obj\Debug\邮件发送器.Form1.resources
+E:\achievement\C sharp\邮件发送器\邮件发送器\obj\Debug\邮件发送器.Properties.Resources.resources
+E:\achievement\C sharp\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csproj.GenerateResource.Cache
+E:\achievement\C sharp\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csproj.CoreCompileInputs.cache
+E:\achievement\C sharp\邮件发送器\邮件发送器\obj\Debug\邮件发送器.exe
+E:\achievement\C sharp\邮件发送器\邮件发送器\obj\Debug\邮件发送器.pdb
+F:\freework\visual stdio build\C#\邮件发送器\邮件发送器\bin\Debug\邮件发送器.exe.config
+F:\freework\visual stdio build\C#\邮件发送器\邮件发送器\bin\Debug\邮件发送器.exe
+F:\freework\visual stdio build\C#\邮件发送器\邮件发送器\bin\Debug\邮件发送器.pdb
+F:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csprojAssemblyReference.cache
+F:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.Form1.resources
+F:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.Properties.Resources.resources
+F:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csproj.GenerateResource.cache
+F:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csproj.CoreCompileInputs.cache
+F:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.exe
+F:\freework\visual stdio build\C#\邮件发送器\邮件发送器\obj\Debug\邮件发送器.pdb
+G:\freework\visual stdio build\C sharp\WinForm\邮件发送器\邮件发送器\bin\Debug\邮件发送器.exe.config
+G:\freework\visual stdio build\C sharp\WinForm\邮件发送器\邮件发送器\bin\Debug\邮件发送器.exe
+G:\freework\visual stdio build\C sharp\WinForm\邮件发送器\邮件发送器\bin\Debug\邮件发送器.pdb
+G:\freework\visual stdio build\C sharp\WinForm\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csprojAssemblyReference.cache
+G:\freework\visual stdio build\C sharp\WinForm\邮件发送器\邮件发送器\obj\Debug\邮件发送器.Form1.resources
+G:\freework\visual stdio build\C sharp\WinForm\邮件发送器\邮件发送器\obj\Debug\邮件发送器.Properties.Resources.resources
+G:\freework\visual stdio build\C sharp\WinForm\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csproj.GenerateResource.cache
+G:\freework\visual stdio build\C sharp\WinForm\邮件发送器\邮件发送器\obj\Debug\邮件发送器.csproj.CoreCompileInputs.cache
+G:\freework\visual stdio build\C sharp\WinForm\邮件发送器\邮件发送器\obj\Debug\邮件发送器.exe
+G:\freework\visual stdio build\C sharp\WinForm\邮件发送器\邮件发送器\obj\Debug\邮件发送器.pdb
